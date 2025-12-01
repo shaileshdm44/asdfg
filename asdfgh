@@ -1,8 +1,8 @@
-def happy_birthday(name):
+def happy_birthday(shailesh):
     print(f"Happy Birthday to you!")
     print(f"Happy Birthday to you!")
-    print(f"Happy Birthday dear {name}!")
+    print(f"Happy Birthday dear {shailesh}!")
     print(f"Happy Birthday to you!")
 
 # Example use:
-happy_birthday("Alice")
+happy_birthday("shailesh")
